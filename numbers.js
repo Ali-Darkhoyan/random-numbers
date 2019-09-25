@@ -1,2 +1,2 @@
-let numbers = Math.random() * 10 % 2;
+const numbers = Math.random() * 10 % 2;
 	document.write(numbers);
